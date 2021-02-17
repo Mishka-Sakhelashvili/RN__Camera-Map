@@ -2,9 +2,8 @@
 <hr />
 
 <p>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Booking__UI/blob/master/IMG/Screenshot_1613570795.png"/>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Booking__UI/blob/master/IMG/Screenshot_1613570803.png"/>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Booking__UI/blob/master/IMG/Screenshot_1613570821.png"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Camera/blob/master/IMG/Screenshot_1613571480.png"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Camera/blob/master/IMG/Screenshot_1613571554.png"/>
 </p>
 
 
