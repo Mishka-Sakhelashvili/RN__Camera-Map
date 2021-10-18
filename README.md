@@ -2,8 +2,8 @@
 <hr />
 
 <p>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Camera/blob/master/IMG/Screenshot_1613571480.png"/>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Camera/blob/master/IMG/Screenshot_1613571554.png"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Camera-Map/blob/master/IMG/Screenshot_1613571480.png"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Camera-Map/blob/master/IMG/Screenshot_1613571554.png"/>
 </p>
 
 
